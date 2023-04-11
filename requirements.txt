@@ -1,0 +1,8 @@
+aiohttp[speedups]
+aiohttp-jinja2
+telethon
+cryptg
+Pillow
+aiohttp_session[secure]
+python-dotenv
+wget
