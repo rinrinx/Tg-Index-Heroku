@@ -15,6 +15,6 @@ INDEX_SETTINGS
   "index_private": false,
   "index_group": true,
   "index_channel": false,
-  "exclude_chats": [-1001724944905],
+  "exclude_chats": [],
   "include_chats": []
 }
